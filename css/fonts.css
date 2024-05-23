@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "NotoSansKR";
+  src: url("../fonts/NotoSansKR-VariableFont_wght.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSansKR-Black";
+  src: url("../fonts/NotoSansKR-Black.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSansKR-Bold";
+  src: url("../fonts/NotoSansKR-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "NotoSansKR-Regular";
+  src: url("../fonts/NotoSansKR-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard";
+  src: url("../fonts/PretendardVariable.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Black";
+  src: url("../fonts/Pretendard-Black.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Bold";
+  src: url("../fonts/Pretendard-Bold.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pretendard-Regular";
+  src: url("../fonts/Pretendard-Regular.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
